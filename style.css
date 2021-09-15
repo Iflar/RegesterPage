@@ -30,9 +30,6 @@ body{
     background-color: darkslategrey;
     text-align: center;
 }
-#menu{
-    display: -moz-grid-line;
-}
 
 #Button{
     background-color: greenyellow;
