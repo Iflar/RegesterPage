@@ -1,7 +1,7 @@
 border-style
 .MainPrime{
-    padding: 100%;
-    background-color: green;
+    text-align: right;
+    font-size: 20px;
 }
 
 body{
@@ -10,9 +10,17 @@ body{
     border-style: outset;
     border-color: darkslategrey;
 }
-.MainSecond{
-    padding: 1%;
+.Main{
+    margin: 0%;
+    padding-left: auto;
+    padding-right: auto;
+    padding-bottom: 50%;
+    padding-top: 1%;
     background-color: slategray;
+}
+
+.Buttons{
+    background-color: palegreen;
 }
 .inputsec{
     margin: auto;
@@ -21,5 +29,12 @@ body{
     width: 10%;
     background-color: darkslategrey;
     text-align: center;
+}
+#menu{
+    display: -moz-grid-line;
+}
+
+#Button{
+    background-color: greenyellow;
 }
 
