@@ -5,17 +5,10 @@ border-style
 }
 
 body{
-    margin-top: 2%;
-    background-color: lightyellow;
-    border-style: outset;
-    border-color: darkslategrey;
-}
-.Main{
     margin: 0%;
-    padding-left: auto;
-    padding-right: auto;
-    padding-bottom: 50%;
-    padding-top: 1%;
+    background-color: mediumseagreen;
+}
+.Header{
     background-color: slategray;
 }
 
@@ -24,14 +17,28 @@ body{
 }
 .inputsec{
     margin: auto;
-    padding-top: 3%;
-    padding-bottom: 3%;
-    width: 10%;
     background-color: darkslategrey;
     text-align: center;
+}
+
+#title{
+    text-align: left;
+    font-family: cursive;
+    font-size: 20px;
 }
 
 #Button{
     background-color: greenyellow;
 }
 
+#mantis{
+    background-color: tan;
+}
+
+#hopper{
+    background-color: tan;
+}
+
+#beetle{
+    background-color: tan;
+}
